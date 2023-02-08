@@ -1,0 +1,120 @@
+
+
+1. Algorithm on library Management system 
+ 
+start
+
+step 1: Go to the E-Library management System
+	Main menu As
+step 2: login to the website 
+	* facebook
+	* google
+	* sign up
+step 3: choose the book name 
+step 4: add language
+	* Telugu
+	* English
+	* Hindi
+	* Tamil
+	* Marathi
+	* Kannada
+	* others
+step 5: add author name
+	* Mahatma Gandhi
+	* Vemana
+	* Vikram seth
+	* Chetan Bhagath
+	* Others
+step 6: add pages
+	* As you prefer
+step 7: add price of book
+	* 500-1000
+step 8: search for results
+step 9: Read the Book
+
+stop
+
+
+
+2. ATM Transactions
+
+start
+step 1: Welcome to ATM
+step 2: insert your Debit card into ATM
+step 3: if
+	(Debit Card is valid go to next)
+ 	else
+	(Please take your Debit card)
+step 4: select your language
+		*English
+		*telugu
+		*Hindi
+step 5: enter your pin
+step 6: if(pin is valid)
+	{
+	Display "Withdarw"
+	Display "Check Balnce"
+	Display "Deposit"
+	Display "Pin generation"
+	}
+	else
+	{
+	Pin is invalid
+	}
+		
+step 7: select Withdraw
+step 8: select the account type
+	*savings
+	*current
+
+step 9:*Type of amount to select only >= 500
+	if {
+		if
+		{
+		(Sufficient with your amount)
+		Display "processing "
+		Collect your cash
+		}
+		if else
+		Display "Display your Remaining balance to Enter yes or No"
+		or
+		Display "print your Receipt"
+		}
+		if (enter yes )
+		Display your balnce
+
+		else (enter No)
+		Display "cancel"
+		}
+	else
+	(your amount will not reach) 
+
+	
+step 10: select check balance
+	select the account type
+	Display Balance
+
+step 11: Select the pin generation process
+	Display " Enter your New pin"
+	Display " Confirm your New pin"
+	Display " Thankyou"
+	
+step 12: Take your card
+
+stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
