@@ -1,0 +1,38 @@
+start
+
+step 1: Read the n values
+step 2: read the m values as Even numbers
+step 3: if n%m==0
+	Display " it is an even Number"
+step 4: else if
+	Display "it is not an even Number"
+
+stop
+
+
+
+start
+
+step 1: s=0,i=1, Read any number say n
+step 2: While(i<=n)
+	{
+		s=s+i;
+		i=i+1;
+	}
+step 3: Display s;
+
+stop
+
+
+start
+
+step 1: x values between (40-90);
+step 2: s=0,
+step 3: if(x%9==0)
+	{
+		s=s+x;
+		x=x+1;
+	}
+step 4: Display x
+	
+stop

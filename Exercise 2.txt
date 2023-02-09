@@ -1,0 +1,11 @@
+start
+
+step 1: s=0,i=1, Read any number say n
+step 2: While(x>=0)
+	{
+		s=x*x/i;
+		i=i+1	
+	}
+step 3: Display s;
+stop
+

@@ -1,0 +1,95 @@
+1. Order Management Algorithm
+
+Start
+
+step 1: Online Ordering
+step 2: Login for Food Ordering System
+	if{
+	 Already Have an Account
+		 	 * Username 
+		  	 * Password
+			{ 
+			if (Forgot Password)
+				{
+				Reset Password
+				}
+			}
+			else {
+				Register 
+				}
+	 }
+
+step 4: Search for hotels 
+step 3: Register 	
+		* Username
+		* Name
+		* Password
+		* Phone
+		Login to the Portal
+
+step 4: Your LOGO Here
+		* Administrator 1
+			* Food menu
+			* Orders
+			* Users
+
+step 5: Modify Food Menu (Admin)
+		if Modify {
+		  		* ORDER FOOD
+					* Name
+					* Item price
+					* Quantity
+				}
+			else if Add Item {
+						* Name
+						* Item Price
+						}
+step 6: Orders
+		* All Orders
+		* Cancelled by user
+
+step 7: placing order
+			* Details
+				* Payment type 
+					Wallet
+				* Address
+				* Card Number
+			Submit the Details
+	   * Estimate the Reciept
+		Customer Name and Mobile Num _______
+		Items,total Pieces and total price
+
+step 8: View All Orders
+	* Order no 1
+	* date 
+	* Payment Type
+	* Status for Delivery
+	* Order Delivered
+
+step 9: Users Management
+		* users List
+		* List of Users
+
+step 10: users list
+
+step 11: List of users modify or Add
+		* name
+		* Contact 
+		* Address
+		* Ammount
+		 
+						
+
+stop
+
+
+
+
+
+
+
+
+
+
+
+

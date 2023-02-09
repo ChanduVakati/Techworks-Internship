@@ -1,0 +1,39 @@
+start
+
+step 1: Read 3 values P, N, R
+step 2: Calculate I <- P*N*R/100
+step 3: print "Simple Interest = I"
+
+stop
+
+
+Start
+
+step 1: Read the n values between (1-12)
+step 2: if(n==1)
+	Display "jan"
+step 3:else if(n==2)
+	Display "Feb"
+step 4:else if(n==3)
+	Display "Mar"
+step 5:else if(n==4)
+	Display "Apr"
+step 6:else if(n==5)
+	Display "May"
+step 7:else if(n==6)
+	Display "June"
+step 8:else if(n==7)
+	Display "July"
+step 9:else if(n==8)
+	Display "Aug"
+step 10:else if(n==9)
+	Display "Sept"
+step 11:else if(n==10)
+	Display "Oct"
+step 12:else if(n==11)
+	Display "Nov"
+step 13:else if(n==12)
+	Display "Dec"
+step 14:else if
+	Display "Invalid input! please enter n value between (1-12)
+stop
