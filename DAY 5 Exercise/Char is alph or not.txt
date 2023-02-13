@@ -1,0 +1,15 @@
+2. 
+
+start
+
+step 1: Read char
+step 2: if ( Char>=a && char<=z )
+		{
+			print "Char is an alphabet"
+		}
+		else
+			{
+				print "char is not an Alphabet"
+			}
+
+stop

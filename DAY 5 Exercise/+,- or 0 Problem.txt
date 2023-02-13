@@ -1,0 +1,11 @@
+start
+step1:read n
+step2: if( n>0)
+           {
+           print (" n is positive number")
+   else if("n==0)
+            print(" n is zero")
+     else
+          print(" n is negative number")
+        }
+stop

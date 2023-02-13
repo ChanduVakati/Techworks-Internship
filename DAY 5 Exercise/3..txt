@@ -1,0 +1,24 @@
+start
+step1: read " enter the week num 1-7" ;
+step2: if(num>=1 && num<=7)
+         {
+            if week day ==1 ;
+             print ("monday")
+     else if week day ==2
+             print (" tuesday")
+        if weekday ==3
+           print(" wednsday")
+       if weekday ==4
+          print (" thrusday")
+      if week day==5
+          print("friday")
+      if week day ==6
+         print("satuurdaay")
+        if week day ==7
+          print("sunday")
+     else
+          {
+            print(" enter invaild number")
+           }
+     }
+stop

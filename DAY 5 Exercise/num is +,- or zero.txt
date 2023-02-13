@@ -1,0 +1,11 @@
+start 
+step1: read num
+step2: if(num>0)
+             print (" the number is positive)
+        else
+              if(num==0)
+                 print(" the number is zero")
+        else
+            if(num<0)
+               print(" the number is negative")
+  stop
