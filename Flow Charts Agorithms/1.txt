@@ -1,0 +1,12 @@
+1. to count number of digits in a number
+
+start
+
+step 1: Read n, Count=0
+	if (n>=0)
+		{
+		n%10
+		++count
+		}
+
+stop

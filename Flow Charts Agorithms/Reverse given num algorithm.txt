@@ -1,0 +1,13 @@
+1. To reverse the given number
+
+start
+step 1: Read p, a=0
+step 2: While (p>0)
+	{
+		d=p%10 // Remainder
+		p=p/10  // p1,p2,p3 like to reduce number of digits
+		a=a*10+d
+	}
+step 3:Display a
+
+stop

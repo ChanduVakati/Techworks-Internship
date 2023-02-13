@@ -1,0 +1,9 @@
+5. To find addition of two numbers without + operator
+
+start
+
+step 1: read a,b;
+step 2: c=(a-(-b))
+step 3: Display c
+
+stop

@@ -1,0 +1,16 @@
+3. To find sum of first and last digit of a number.
+
+start
+
+step 1: Read n, s=0, p=n, a=0;
+step 2: s=n%10
+step 3: While ( p>=10)
+		{
+		a=n%10
+		p=p/10
+		}
+step 4: Display s,p
+step 5: Q=s+p
+step 6: Display Q
+
+stop

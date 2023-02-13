@@ -1,0 +1,14 @@
+2. To find first and last digit of a number
+
+start
+
+step 1: Read n;
+step 2: While (n>=10)
+	{
+		p=n/10
+		s=n%10
+	}
+	Display p;
+	Display s;
+
+stop
