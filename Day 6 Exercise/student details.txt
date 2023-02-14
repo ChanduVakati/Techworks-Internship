@@ -1,0 +1,24 @@
+import java.util.Scanner;
+class Student
+  {
+   public static void main(String args[])
+    {
+      String studentid;int studentname;int marks1,marks2,marks3;int sum;double average;
+      Scanner d=new Scanner(System.in);
+      studentid=d.next();
+      studentname=d.nextInt();
+      marks1=d.nextInt();
+      marks2=d.nextInt();
+      marks3=d.nextInt();
+      sum=d.nextInt();
+      average=d.nextDouble();
+      System.out.println("sid="+studentid);
+      System.out.println("sname="+studentname);
+      System.out.println("m1="+marks1);
+      System.out.println("m2="+marks2 );
+      System.out.println("m3="+marks3 );
+      sum=marks1+marks2+marks3;
+      average=sum/3;
+      System.out.println("average"+average);
+    }
+  }
